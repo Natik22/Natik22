@@ -1,4 +1,10 @@
-### Hi there 👋
+### **Salut bienvenue sur mon profil** <img src="https://github.com/Natik22/Natik22/assets/151553054/8e6565d1-e127-4c93-a227-15888e3a89f0" style="width:40px">
+
+
+
+32 ans, en cours de formation chez Simplon pour devenir Développeur Web🔜
+
+-
 
 <!--
 **Natik22/Natik22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
